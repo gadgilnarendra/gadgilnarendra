@@ -16,38 +16,7 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-### Frontend  
-<div align="center">  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/?trk=article-ssr-frontend-pulse_little-text-blockskills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/?trk=article-ssr-frontend-pulse_little-text-blockskills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://dotnet.microsoft.com/download" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/?trk=article-ssr-frontend-pulse_little-text-blockskills-assets/dotnetcore.png" alt=".Net Core" height="50" /></a>  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/?trk=article-ssr-frontend-pulse_little-text-blockskills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/?trk=article-ssr-frontend-pulse_little-text-blockskills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/?trk=article-ssr-frontend-pulse_little-text-blockskills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/?trk=article-ssr-frontend-pulse_little-text-blockskills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
-<a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/?trk=article-ssr-frontend-pulse_little-text-blockskills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/?trk=article-ssr-frontend-pulse_little-text-blockskills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/?trk=article-ssr-frontend-pulse_little-text-blockskills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
-<a href="https://mochajs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/?trk=article-ssr-frontend-pulse_little-text-blockskills-assets/mocha.png" alt="Mocha" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
-
-<br/>  
-
-
+C# .Net , AWS , GCP, Application Modernization, Cypress Automation, 
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/gadgilnarendra" target="_blank">
