@@ -2,10 +2,10 @@
   - 🌱 I’m currently learning React, .Net, DevOps.  
   - ⚡ A Quick Learner😉.
 <br/>  
-## My Skill Set  
-React .Net Developer + DevOps Engineer
-Programming Language : C# .Net, JavaScript, DB.
-Cloud : AWS , GCP.
+# My Skill Set <br/>   
+React .Net Developer + DevOps Engineer <br/> 
+Programming Language : C# .Net, JavaScript, DB. <br/> 
+Cloud : AWS , GCP. <br/> 
 
 ## Connect with me  
 
