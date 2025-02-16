@@ -9,6 +9,6 @@ Cloud : AWS , GCP. <br/>
 
 ## Connect with me  
 
-<a href="mailto:gadgil.n5@gmail.com">@mail</a> <br>
-<a href="https://www.linkedin.com/in/narendra-gadgil-6867061b9/">LinkedIn</a><br>
+<a href="mailto:gadgil.n5@gmail.com">@mail</a> 
+<a href="https://www.linkedin.com/in/narendra-gadgil-6867061b9/">LinkedIn</a>
 <a href="https://lichess.org/@/Narendra_Gadgil">Lichess</a>
