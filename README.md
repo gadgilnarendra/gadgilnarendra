@@ -1,5 +1,5 @@
 ### <div align="center">I'm Narendra, Software Engineer @ TCS 👨‍💻 working since 2021 🚀</div>  
-  - 🌱 I’m currently learning .net fullstack, .net selenium and cypress automation   
+  - 🌱 I’m currently learning React, .Net, DevOps.  
   - ⚡ A Quick Learner😉.
 <br/>  
 ## My Skill Set  
