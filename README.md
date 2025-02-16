@@ -3,7 +3,9 @@
   - ⚡ A Quick Learner😉.
 <br/>  
 ## My Skill Set  
-C# .Net , AWS , GCP, Application Modernization, Selenium, Cypress Automation.
+React .Net Developer + DevOps Engineer
+Programming Language : C# .Net, JavaScript, DB.
+Cloud : AWS , GCP.
 
 ## Connect with me  
 
