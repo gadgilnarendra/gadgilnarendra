@@ -4,7 +4,7 @@
 <br/>  
 # My Skill Set <br/>   
 React .Net Developer + DevOps Engineer <br/> 
-Programming Language : C# .Net, JavaScript, DB. <br/> 
+Programming Language : C# .Net, JavaScript, DB(SQL, Postgre). <br/> 
 Cloud : AWS , GCP. <br/> 
 
 ## Connect with me  
