@@ -6,7 +6,7 @@
 React .Net Developer + DevOps Engineer <br/> 
 Programming Language : C# .Net, JavaScript, DB(SQL, Postgre). <br/> 
 
-Cloud Certification : AWS - Developer Associate, AWS - Cloud Practitioner, GCP - Professional Cloud Architect, GCP - Associate Cloud Engineer <br/> 
+Cloud Certification : AWS - Developer Associate, AWS - Cloud Practitioner, GCP - Professional Cloud Architect.<br/> 
 
 ##Projects : 
 
