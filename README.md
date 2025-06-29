@@ -1,14 +1,14 @@
-# 👋 Hi, I'm Narendra!  
+# 👋 Hi, I'm Narendra!
 **Software Engineer @ TCS** | _Building since 2021_ 🚀
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🎯 **Driven Developer**: I love transforming ideas into reality with code.
+- 🎯 **Driven Developer:** I love transforming ideas into reality with code.
 - 🌱 **Currently Learning:** React, .NET, DevOps
 - 🏆 **Certified:** AWS Developer Associate, AWS Cloud Practitioner, GCP Professional Cloud Architect
-- ⚡ **Fun Fact:** Chess enthusiast ([Lichess profile](https://lichess.org/@/Narendra_Gadgil)), and always up for a challenge!
+- ♟️ **Fun Fact:** Chess enthusiast ([Lichess profile](https://lichess.org/@/Narendra_Gadgil)), and always up for a challenge!
 
 ---
 
@@ -23,9 +23,9 @@
 
 ## 🚀 Featured Projects
 
-<!-- Replace these with your top repositories or portfolio links -->
+<!-- Replace these with your actual repositories or portfolio links -->
 - **[Awesome Project 1](#)**  
-  _A brief description of what the project does, tech used, and your contribution._  
+  _A brief description of what the project does, tech used, and your contribution._
 - **[Cloud Automation Tool](#)**  
   _Automated cloud deployments using AWS and GCP – built CI/CD pipelines and monitoring dashboards._
 
@@ -48,7 +48,10 @@
 ---
 
 <p align="center">
+  <img src="https://github.githubassets.com/favicons/favicon.svg" width="32" alt="GitHub Icon" />
   <img src="https://github-readme-stats.vercel.app/api?username=gadgilnarendra&show_icons=true&theme=radical" alt="Narendra's GitHub stats" width="60%" />
+  <br>
+  <strong>Narendra Gadgil</strong>
   <br>
   <em>Thanks for visiting! 🚀</em>
 </p>
