@@ -56,4 +56,21 @@
 |  |
 | ------- |
 | [1894-merge-strings-alternately](https://github.com/gadgilnarendra/gadgilnarendra/tree/master/1894-merge-strings-alternately) |
+| [3635-smallest-divisible-digit-product-ii](https://github.com/gadgilnarendra/gadgilnarendra/tree/master/3635-smallest-divisible-digit-product-ii) |
+## Math
+|  |
+| ------- |
+| [3635-smallest-divisible-digit-product-ii](https://github.com/gadgilnarendra/gadgilnarendra/tree/master/3635-smallest-divisible-digit-product-ii) |
+## Backtracking
+|  |
+| ------- |
+| [3635-smallest-divisible-digit-product-ii](https://github.com/gadgilnarendra/gadgilnarendra/tree/master/3635-smallest-divisible-digit-product-ii) |
+## Greedy
+|  |
+| ------- |
+| [3635-smallest-divisible-digit-product-ii](https://github.com/gadgilnarendra/gadgilnarendra/tree/master/3635-smallest-divisible-digit-product-ii) |
+## Number Theory
+|  |
+| ------- |
+| [3635-smallest-divisible-digit-product-ii](https://github.com/gadgilnarendra/gadgilnarendra/tree/master/3635-smallest-divisible-digit-product-ii) |
 <!---LeetCode Topics End-->
