@@ -67,4 +67,12 @@
 |  |
 | ------- |
 | [3635-smallest-divisible-digit-product-ii](https://github.com/gadgilnarendra/gadgilnarendra/tree/master/3635-smallest-divisible-digit-product-ii) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/gadgilnarendra/gadgilnarendra/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/gadgilnarendra/gadgilnarendra/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
